@@ -1,0 +1,17 @@
+{
+  "name": "renderer",
+  "version": "0.0.0",
+  "author": "Mintblocks",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mintblocks/renderer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mintblocks/renderer/issues"
+  },
+  "homepage": "https://mb.jimhasaburger.com/",
+  "dependencies": {
+  }
+}
